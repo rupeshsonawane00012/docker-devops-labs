@@ -63,3 +63,16 @@ cd /usr/share/nginx/html
 echo "<h1>Hello Docker Lab</h1>" > lab.html
 docker commit <container_id> my-nginx:v1
 docker run -d -P my-nginx:v1
+```
+Docker Lifecycle
+Image → Container → Modify → Commit → New Image
+
+Tools Used
+Docker
+Linux
+AWS EC2
+Docker Hub
+
+Author
+Rupesh  Sonawane
+DevOps & Cloud Enthusiast
