@@ -33,5 +33,5 @@ Image → Container → Modify → Commit → New Image
 
 ---
 
-Author: Rupesh Gorakhnath Sonawane
+Author: Rupesh  Sonawane
 DevOps & Cloud Enthusiast
